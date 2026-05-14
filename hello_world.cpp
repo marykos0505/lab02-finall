@@ -1,3 +1,4 @@
+// This program greets the user by their name
 #include <iostream>
 #include <string>
 
